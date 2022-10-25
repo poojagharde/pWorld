@@ -1,1 +1,3 @@
+string str='rupesh';
+system.debug(str);
 
