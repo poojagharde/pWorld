@@ -1,3 +1,5 @@
 string str='rupesh';
 system.debug(str);
+integer a=10;
+system.debug(a);
 
